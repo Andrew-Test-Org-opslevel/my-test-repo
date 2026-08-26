@@ -1,1 +1,5 @@
 # my-test-repo
+
+THIS IS A TEST
+
+OPS_SECRET=1223r23421342
