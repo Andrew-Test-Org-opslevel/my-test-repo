@@ -1,5 +1,7 @@
 name: SonarQube Cloud Scan
-on: [push]
+on:
+  push:
+  workflow_dispatch:
 jobs:
   sonarcloud:
     runs-on: ubuntu-latest
